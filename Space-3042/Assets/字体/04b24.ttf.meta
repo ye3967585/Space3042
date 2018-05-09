@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 33c28e1717799ec4aaddb1f9fa5258cc
+timeCreated: 1525792897
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 04b_24
+  fontNames:
+  - 04b24
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
